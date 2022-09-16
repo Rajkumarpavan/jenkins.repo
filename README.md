@@ -1,2 +1,2 @@
 # jenkins.repo
-we don on jenkins
+we don on jenkins in jenkins
